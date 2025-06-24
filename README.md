@@ -13,16 +13,20 @@ cat-or-not-cat-classifier/
 
 1. Clone o repositório:
 
+    ```
     git clone https://github.com/seu-usuario/cat-or-not-cat-classifier.git
     cd cat-or-not-cat-classifier
+    ```
 
 2. Adicione os arquivos train_catvnoncat.h5 e test_catvnoncat.h5 na pasta data/.
 
 3. (Opcional) Crie um ambiente virtual:
 
+    ```
     python -m venv .venv
     source .venv/bin/activate  # Linux/macOS
     .venv\Scripts\activate     # Windows
+    ```
 
 4. Instale as dependências:
 
