@@ -3,11 +3,12 @@
 Este projeto é uma implementação simples de um classificador de imagens que identifica se uma imagem contém um **gato** ou **não**.
 
 ## 📂 Estrutura do projeto
-
+```
 cat-or-not-cat-classifier/
 ├── data/ # Contém os arquivos .h5 com os datasets
 ├── main.py # Script principal com todo o código
 └── README.md # Este arquivo
+```
 
 ## 🚀 Como usar
 
@@ -30,8 +31,11 @@ cat-or-not-cat-classifier/
 
 4. Instale as dependências:
 
+    ```
     pip install requirements.txt
+    ```
 
 5. Execute o script:
-
+    ```
     python main.py
+    ```
